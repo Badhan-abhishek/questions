@@ -15,5 +15,3 @@ test("Reverse vowels", function () {
 		expect(reverseVowels(tc)).toStrictEqual(res);
 	});
 });
-
-
